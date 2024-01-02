@@ -6,3 +6,4 @@ In this folder there are my projects for every course of the [IBM Machine Learni
 * Supervised Regression project -> [Click Here](https://github.com/Biagio10/ML-Adventures/blob/main/IBM-Machine-Learning-Professional-Certificate/Supervised_ML_Regression_Final_Project.ipynb)
 * Supervised Classification project -> [Click Here](https://github.com/Biagio10/ML-Adventures/blob/main/IBM-Machine-Learning-Professional-Certificate/Supervised_ML_Classification_Final_Project.ipynb)
 * Unsupervised Machine Learning project -> [Click Here](https://github.com/Biagio10/ML-Adventures/blob/main/IBM-Machine-Learning-Professional-Certificate/Unsupervised_ML_Final_Project.ipynb)
+* Deep Learning project -> [Click Here](https://github.com/Biagio10/ML-Adventures/blob/main/IBM-Machine-Learning-Professional-Certificate/DeepLearning_Final_Project.ipynb)
